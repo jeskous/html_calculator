@@ -55,6 +55,13 @@ body {
   height: 2.5rem;
   margin: 10px;
 }
+.c-button:hover {
+  background-color: rgb(146, 146, 146);
+  border-radius: 0.4rem;
+  width: 3rem;
+  height: 2.5rem;
+  margin: 10px;
+}
 
 .control-button {
   background-color: rgb(139, 139, 139);
